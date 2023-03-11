@@ -1,0 +1,5 @@
+matchBlocks=stone
+method=overlay
+tiles=0-16
+connect=tile
+connectTiles=deepslate.png deepslate_top.png
