@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 12,
-    "description": "§a§lBlock§c§lPixel\u00A78§l CTM Add-on 1.19.3\n§8By Jakob.zero & GrakePCH",
+    "pack_format": 8,
+    "description": "§a§lBlock§c§lPixel\u00A78§l CTM Add-on 1.18+\n§8By Jakob.zero & GrakePCH",
     "name" : "§2§lBlock§c§lPixel \u00A78CTM Add-on"
   }
 }
